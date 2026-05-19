@@ -73,4 +73,6 @@ Built takeaway and dine-in ordering flows plus a promotional offer module to imp
 
 ## 📊 GitHub Stats
 
-![Abinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinesh-T&show_icons=true&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abinesh-T&theme=default&hide_border=true)](https://github.com/Abinesh-T)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abinesh-T&theme=flat&no-frame=true&row=1&column=6)](https://github.com/Abinesh-T)
