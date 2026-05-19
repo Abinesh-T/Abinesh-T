@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Abinesh-T
-- 👀 I’m interested in developement
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on new technology
-- 📫 How to reach me +91 9629174525
+# Hi, I'm Abinesh Thirupathi 👋
 
-<!---
-Abinesh-T/Abinesh-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full Stack Developer** | Computer Science Engineering Graduate
+
+Passionate about building scalable web applications and exploring new technologies. I enjoy working across the full stack — from designing clean UIs to architecting robust back-end systems.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Java · Python · JavaScript · Dart  
+**Frameworks & Libraries:** Angular · Spring Boot · Hibernate · Flutter  
+**Tools & Platforms:** Git · GitHub · Maven · MySQL  
+
+---
+
+## 🚀 What I'm Up To
+
+- 🌱 Currently deepening my skills in **Flutter** for cross-platform mobile development
+- 🔭 Working on full stack projects involving **Java Spring Boot** and **Angular**
+- 🤝 Open to collaborating on innovative open-source projects
+- 📫 Reach me at: [abineshdoc@gmail.com](mailto:abineshdoc@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Abinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinesh-T&show_icons=true&theme=default&hide_border=true)
+
+---
+
+*Thanks for visiting my profile!*
